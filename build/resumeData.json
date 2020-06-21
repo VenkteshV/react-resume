@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name":"Venktesh V",
+    "occupation":"PhD Scholar at IIIT-Delhi.",
+    "description":"NLP and ML under limited labels. Interested in application of ML to edutech . Open source and open research enthusiast",
+    "image":"profilepic.jpg",
+    "bio":"Just another commoner trying to be useful. I love how technology can transform many sectors but at the same time skeptical about the unnecessary hype around most tech (AI, blockchain etc.). I believe that work I do must be directly useful for atleast a few and I do not believe in PR that hypes a product for it to be not used at all later.",
+    "contactmessage":"Contact at my email address if you wanna chat about research ideas.",
+    "email": "venkteshv@iiitd.ac.in",
+    "phone": "",
+    "address":{
+      "street":"",
+      "city":"",
+      "state":"",
+      "zip": ""
+    },
+    "resumedownload":"https://drive.google.com/file/d/1b7K6atWFxF-GGkur94QRtKov0hefkeE6/view?usp=sharing",
+    "social":[
+      {
+        "name":"twitter",
+        "url":"https://twitter.com/justice1996V",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/venktesh-v-78099a135/",
+        "className":"fa fa-linkedin"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Indraprastha Institute of Information Technology",
+        "degree":"PhD scholar ",
+        "graduated":"Expected 2022",
+        "description":" I currently work at the intersection of NLP and devising methods for lerning under limited labelled data scenarios. I am also interested in application of ML for systems and I am currently working on side projects in this area."
+      },
+      {
+        "school":"Government College of Technology, Coimbatore.",
+        "degree":"B.E. Computer Science",
+        "graduated":"April 2017",
+        "description":"My interest in Machine learning sparked during the undergrad course in AI at GCT. I was fortunate to be taught by many brilliant lecturers in topics ranging from computer vision to robotics. This inspired us (a team of 4) to participate in the E-Yantra robotics competition at IIT Bombay where we won the \"Best design award\""
+      }
+    ],
+    "work":[
+      {
+        "company":"Indraprastha Institute of Information Technology",
+        "title":"PhD scholar ",
+        "years":"December 2019 - Present",
+        "description":"Applied NLP in e-learning platforms"
+      },
+      {
+        "company":"Nationstar Mortgage (Mr.Cooper)",
+        "title":"Full stack developer ( Software engineer 2)",
+        "years":"December 2016 - December 2019",
+        "description":"Helped develop reusable react components and microservices serving applications that run at scale. I also worked in a team experimenting with building an in house OCR solution and made considerable progress in text detection in docs without template  and limited ground truths"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"80%"
+      },
+      {
+        "name":"NLP",
+        "level":"45%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"90%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"80%"
+      },
+      {
+        "name":"Spark and other Big data related concepts and frameworks",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      },
+      {
+        "name":"Python",
+        "level":"80%"
+      },
+      {
+        "name":"PyTorch",
+        "level":"60%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"UseSkill",
+        "category":"A fiver like platform that matches people with different skills to requirements of governemnt aimed at upskilling students and workers",
+        "image":"useskill.jpg",
+        "url":"http://useskill.herokuapp.com/"
+      },
+      {
+        "title":"Teleoperated pneumatic arm with memory optimized A-star path planner",
+        "category":"A teleoperated bot that has an arm mounted on it that cna be remotely controlled by a human wearing the exoskeleton we designed. Our main novelty lies in the design of exoskeleton where we used potentiometers to capture and relay the actions of the human to the bot. My team members were awesome and helped design the chassis of the robot from scratch with the help from a workshop owner. We won the Best design award at IIT Bombay and we further extended this project by proposing a memory optimized a star path planner which is yet to be published.",
+        "image":"robot.jpg",
+        "url":"https://www.youtube.com/watch?v=2UPW2uMwkVY&feature=youtu.be&t=223"
+      },
+      {
+        "title":"Waste exchange platform",
+        "category":"This project was done when I got the opportunity to volunteer for an awesome non-profit \"Tech for cities\". We designed a platform to connect the buyers who can put the waste like lastic to good use with seller RRCs'. The product helped preventing dumping of plastic waste in dumpyards and is running at scale now. This project was done in collaboration with a smart cities fellowship recipient.",
+        "image":"smart-cities.jpg",
+        "url":"https://www.madraswasteexchange.com/#/"
+      }
+    ]
+  }
+}
