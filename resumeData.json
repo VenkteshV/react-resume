@@ -118,5 +118,11 @@
         "url":"https://www.madraswasteexchange.com/#/"
       }
     ]
-  }
+  },
+  "testimonials":[
+    {
+      "text": "This site is built from template of",
+      "user":"Credits for template : https://github.com/tbakerx/react-resume-template"
+    }
+  ]
 }
