@@ -58,6 +58,24 @@
         "description":"Helped develop reusable react components and microservices serving applications that run at scale. I also worked in a team experimenting with building an in house OCR solution and made considerable progress in text detection in docs without template  and limited ground truths"
       }
     ],
+    "publications": [
+      {
+        "title":"TagRec: Automated Tagging of Questions with Hierarchical Learning Taxonomy",
+        "category":"ECML-PKDD 2021.",
+        "url":"https://arxiv.org/abs/2107.10649"
+      },
+      {
+        "title":"Fake News Detection System using XLNet model with Topic Distributions: CONSTRAINT@AAAI2021 Shared Task",
+        "category":"AAAI 2021",
+        "url":"https://arxiv.org/abs/2101.11425"
+      },
+      {
+        "title":"OneStopTuner: An End to End Architecture for JVM Tuning of Spark Applications",
+        "category":"Under review at a journal",
+        "url":"https://arxiv.org/abs/2009.06374"
+      }
+
+    ],
     "skills":[
       {
         "name":"Git",
@@ -98,24 +116,6 @@
     ]
   },
   "portfolio":{
-    "publications": [
-      {
-        "title":"TagRec: Automated Tagging of Questions with Hierarchical Learning Taxonomy",
-        "category":"ECML-PKDD 2021.",
-        "url":"https://arxiv.org/abs/2107.10649"
-      },
-      {
-        "title":"Fake News Detection System using XLNet model with Topic Distributions: CONSTRAINT@AAAI2021 Shared Task",
-        "category":"AAAI 2021",
-        "url":"https://arxiv.org/abs/2101.11425"
-      },
-      {
-        "title":"OneStopTuner: An End to End Architecture for JVM Tuning of Spark Applications",
-        "category":"Under review at a journal",
-        "url":"https://arxiv.org/abs/2009.06374"
-      }
-
-    ],
     "projects": [
       {
         "title":"UseSkill",
